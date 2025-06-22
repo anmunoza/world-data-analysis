@@ -23,4 +23,5 @@ The goal is to apply exploratory and statistical analysis techniques with Python
 ## Conclusions
 
 There is a strong positive correlation between fertility rates and infant mortality.
+
 Countries with higher fertility rates tend to have higher infant mortality, which could indicate differences in socioeconomic development and access to healthcare.
